@@ -5,6 +5,7 @@ Awesome Logseq extensions created by the community &lt;3
 ## CSS Themes
 Use [Stylus](https://github.com/openstyles/stylus) to load these themes!
 
+- logseq_ono-sendai by Cannibalox: <https://github.com/cannibalox/logseq_ono-sendai>
 - logseq-dark-hpx by Cannibalox: <https://github.com/cannibalox/logseq-dark-hpx>
 - LogseqxRoam by Yash: <https://github.com/yashagrawal15/LogseqxRoam>
 
